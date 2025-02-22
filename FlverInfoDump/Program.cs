@@ -1,4 +1,6 @@
 ﻿using SoulsFormats;
+using System;
+using System.IO;
 
 namespace FlverInfoDump
 {
