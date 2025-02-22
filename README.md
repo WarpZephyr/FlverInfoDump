@@ -1,8 +1,8 @@
 # FlverInfoDump
 Dumps simple info from various FromSoftware model types.  
-Currently does not include indices or vertices to avoid bloating what is simple.  
+Currently does not include indices or vertices to avoid bloating what is simple.
 
-Supported types:  
+# Supported Types
 MDL4  
 SMD4  
 FLVER0  
